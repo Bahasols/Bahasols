@@ -10,7 +10,7 @@
 -  **Learning :** Full-Stack :zap: 	| React Native :fireworks: | Shell Scripting :computer:
 -  **Tech interests :** Machine Learning :crystal_ball: | Artificial Intelligence :robot:
 -  **Hobbies :** Lifting :muscle: | Cooking :meat_on_bone:
--  **Ask me about :** Anything!, I'd be happy to get in touch! :v:
+-  **Ask me about :** Anything! I'd be happy to get in touch! :v:
 -  **Fun fact :** You'll never have to invert a binary tree
 
 
